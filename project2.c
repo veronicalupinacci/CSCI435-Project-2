@@ -16,4 +16,4 @@ pthread_cond_t producer_cond = PTHREAD_COND_INITIALIZER; // initialzing the prod
 pthread_cond_t consumer_cond = PTHREAD_COND_INITIALIZER; //initialzing the consumer conditions 
 int next_consumer = 0; // Index indicating which comsemr should consume next 
 int next_producer = 0; // Index indicating where the producer should place the next integer     
-//######################################################################################################################################
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
