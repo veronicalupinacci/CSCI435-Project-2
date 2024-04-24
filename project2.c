@@ -1,6 +1,6 @@
 // this is the file for proj 2
 
-// Miled Kalbourji, VeronicaLupinacci
+// Miled Kalbourji, VeronicaLupinacci, Rebekah Watrous
 
 #include <stdio.h>
 #include <stdlib.h>
